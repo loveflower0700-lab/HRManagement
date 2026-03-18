@@ -1,0 +1,17 @@
+# Exclude sensitive files
+
+# App settings
+appsettings.json
+
+# Environment files
+.env
+
+# Build output
+bin/
+obj/
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio lock files
+*.vs
